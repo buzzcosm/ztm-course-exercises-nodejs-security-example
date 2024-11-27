@@ -56,4 +56,8 @@ npm audit fix
 
 ## Useful references
 
-- []()
+- [wireshark](https://www.wireshark.org/)
+- [Let's Encrypt](https://letsencrypt.org/)
+- [Wikipedia - Self-signed certificate](https://en.wikipedia.org/wiki/Self-signed_certificate)
+- [openssl](https://openssl.org/)
+- [helmet.js](https://helmetjs.github.io/)
