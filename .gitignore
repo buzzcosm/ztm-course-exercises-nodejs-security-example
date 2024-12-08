@@ -2,6 +2,7 @@ node_modules/
 dist
 cert.pem
 key.pem
+.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows
