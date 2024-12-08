@@ -85,3 +85,4 @@ npm audit fix
 - [Mozilla: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [Google Cloud Platform (GCP)](https://cloud.google.com/gcp)
 - [Auth for Generative AI Applications](https://www.auth0.ai/)
+- [okta: Homepage - Everything starts with Identity](https://www.okta.com/)
