@@ -77,6 +77,7 @@ npm audit fix
   - [JWT - JSON Web Tokens Standard](https://jwt.io/)
     > **Warning**: JWTs are credentials, which can grant access to resources. Be careful where you paste them! We do not record tokens, all validation and debugging is done on the client side.
   - [okta: What is OAuth 2.0](https://auth0.com/intro-to-iam/what-is-oauth-2)
+  - [okta: OAuth 2.0 Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)
 
 ## Interesting Stuff
 
