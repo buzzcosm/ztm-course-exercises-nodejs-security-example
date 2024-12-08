@@ -74,3 +74,8 @@ npm audit fix
   - [Cross-Site Scripting (XSS)](https://www.blackduck.com/glossary/what-is-cross-site-scripting.html#:~:text=Definition,the%20user%20to%20click%20it.)
   - [okta - article: authentication vs authorization](https://www.okta.com/identity-101/authentication-vs-authorization/#:~:text=Authentication%20confirms%20that%20users%20are,and%20access%20management%20(IAM).)
   - My Docs: [Two-Factor Authentication (2FA)](./docs/two-factor-authentication.md)
+
+## Interesting Stuff
+
+- [BOOMERANG - A simple testing tool to debug your APIs](https://boomerangapi.com/)
+- [akamai - mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang)
