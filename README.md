@@ -75,6 +75,7 @@ npm audit fix
   - [okta - article: authentication vs authorization](https://www.okta.com/identity-101/authentication-vs-authorization/#:~:text=Authentication%20confirms%20that%20users%20are,and%20access%20management%20(IAM).)
   - My Docs: [Two-Factor Authentication (2FA)](./docs/two-factor-authentication.md)
   - [JWT - JSON Web Tokens Standard](https://jwt.io/)
+    > **Warning**: JWTs are credentials, which can grant access to resources. Be careful where you paste them! We do not record tokens, all validation and debugging is done on the client side.
 
 ## Interesting Stuff
 
