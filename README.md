@@ -76,6 +76,7 @@ npm audit fix
   - My Docs: [Two-Factor Authentication (2FA)](./docs/two-factor-authentication.md)
   - [JWT - JSON Web Tokens Standard](https://jwt.io/)
     > **Warning**: JWTs are credentials, which can grant access to resources. Be careful where you paste them! We do not record tokens, all validation and debugging is done on the client side.
+  - [okta: What is OAuth 2.0](https://auth0.com/intro-to-iam/what-is-oauth-2)
 
 ## Interesting Stuff
 
@@ -83,3 +84,4 @@ npm audit fix
 - [akamai - mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang)
 - [Mozilla: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [Google Cloud Platform (GCP)](https://cloud.google.com/gcp)
+- [Auth for Generative AI Applications](https://www.auth0.ai/)
