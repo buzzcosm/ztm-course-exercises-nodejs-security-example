@@ -64,7 +64,7 @@ npm audit fix
 - [Let's Encrypt](https://letsencrypt.org/)
 - [Wikipedia - Self-signed certificate](https://en.wikipedia.org/wiki/Self-signed_certificate)
 - [openssl](https://openssl.org/)
-- [helmet.js](https://helmetjs.github.io/)
+- [helmet.js](https://helmetjs.github.io/) 🔐🛡️⚡💡🔥
   - My Docs: [helmet.md](./docs/helmet.md)
 - get free ca-signed certificate
   - [Let's Encrypt](https://letsencrypt.org/)
