@@ -80,3 +80,4 @@ npm audit fix
 - [BOOMERANG - A simple testing tool to debug your APIs](https://boomerangapi.com/)
 - [akamai - mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang)
 - [Mozilla: HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Google Cloud Platform (GCP)](https://cloud.google.com/gcp)
