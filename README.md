@@ -70,3 +70,5 @@ npm audit fix
   - [Let's Encrypt](https://letsencrypt.org/)
   - [ZeroSSL](https://zerossl.com/)
   - [SSL For Free](https://www.sslforfree.com/)
+- Security
+  - [Cross-Site Scripting (XSS)](https://www.blackduck.com/glossary/what-is-cross-site-scripting.html#:~:text=Definition,the%20user%20to%20click%20it.)
